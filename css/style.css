@@ -1,17 +1,21 @@
-.panda-card{
-   border: 0;
+.picture img{
+    width: 100px;
+   
+} 
+.pic img{
+    width:100% ;
 }
-.panda-card-fppter{
+.new-item{
+    border: 0;
+}
+.new-item img{
+    height: 350px;
+    width: 100%;
+    border-radius: 30px;
+   
+}
+.old-item{
     background-color: white;
     border: 0;
 }
-.categories img {
-    width: 100px;
-}
-.panda-slide .carousel-item{
-    background-color: #fceae8;
-    border-radius: 1em;
-}
-.redious{
-    border-radius: 8px;
-}
+font-family: 'Roboto', sans-serif;
